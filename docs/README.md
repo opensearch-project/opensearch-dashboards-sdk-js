@@ -1,3 +1,5 @@
+@opensearch-project/opensearch-dashboards-sdk / [Modules](modules.md)
+
 # OpenSearch Dashboards SDK for JS
 
 - [Introduction](#introduction)
