@@ -10,7 +10,7 @@
 - [Copyright](#copyright)
 
 ## Introduction
-Opensearch Dashboards plugins have allowed the extension and ehancements of various core features however, current plugin architecture carries the risk of fatally impacting clusters should they fail. In order to ensure that plugins may run safely without impacting the system, our goal is to effectively isolate plugin interactions with OpenSearch Dashboards by modularizing the extension points to which they hook onto.
+OpenSearch Dashboards plugins have allowed the extension and ehancements of various core features however, current plugin architecture carries the risk of fatally impacting clusters should they fail. In order to ensure that plugins may run safely without impacting the system, our goal is to effectively isolate plugin interactions with OpenSearch Dashboards by modularizing the extension points to which they hook onto.
 
 ## Contributing
 See [CONTRIBUTING](CONTRIBUTING.md)

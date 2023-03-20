@@ -1,0 +1,42 @@
+{
+  "name": "@opensearch-project/opensearch-dashboards-sdk",
+  "description": "The official OpenSearch Dashboards SDK for JavaScript",
+  "version": "0.0.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "homepage": "https://www.opensearch.org/",
+  "keywords": [
+    "opensearch",
+    "opensearchDashboards",
+    "mapping",
+    "REST",
+    "search",
+    "index",
+    "opensearchDashboardsSDK"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "opensearch-project",
+  "devDependencies": {
+    "@types/node": "^14.17.32"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "@opensearch-project/opensearch": "^2.1.0",
+    "rxjs": "^6.5.5"
+  },
+  "resolutions": {},
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opensearch-project/opensearch-dashboards-sdk-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/opensearch-project/opensearch-dashboards-sdk-js/issues"
+  },
+  "engines": {
+    "node": ">=10",
+    "yarn": "^1.22.10"
+  }
+}
