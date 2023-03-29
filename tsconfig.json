@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "outDir": "./target/types",
+    },
+    "include": [
+      "./lib/**/*.ts",
+      "./index.d.ts"
+    ],
+    "exclude": [
+      "target/**/*"
+    ]
+  }
+  

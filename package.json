@@ -15,16 +15,24 @@
     "opensearchDashboardsSDK"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "gen:doc": "./node_modules/.bin/typedoc --options .typedoc.json"
   },
   "author": "opensearch-project",
   "devDependencies": {
-    "@types/node": "^14.17.32"
+    "@types/node": "^14.17.32",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "none": "^1.0.0",
+    "typedoc": "^0.23.28"
   },
   "dependencies": {
-    "moment": "^2.24.0",
-    "@opensearch-project/opensearch": "^2.1.0",
-    "rxjs": "^6.5.5"
+    "@types/history": "^4.7.3",
+    "typescript": "^5.0.2"
   },
   "resolutions": {},
   "license": "Apache-2.0",
