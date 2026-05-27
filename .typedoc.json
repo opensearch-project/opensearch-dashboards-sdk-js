@@ -1,0 +1,11 @@
+{
+    "$schema": "https://typedoc.org/schema.json",
+    "entryPoints": [
+        "./lib/application/index.d.ts",
+        "./lib/mount/index.d.ts",
+    ],
+    "tsconfig": "./tsconfig.json",
+    "out": "./docs",
+    "gitRemote": "upstream",
+    "exclude": ["**/node_modules/**"]
+}
