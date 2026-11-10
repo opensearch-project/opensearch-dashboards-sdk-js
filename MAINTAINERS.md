@@ -10,7 +10,6 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 
 | Maintainer                 | GitHub ID                                        | Affiliation |
 | -------------------------- | ------------------------------------------------ | ----------- |
-| Sean Neumann               | [seanneumann](https://github.com/seanneumann)    | Amazon      |
 | Rocky                      | [kavilla](https://github.com/kavilla)            | Amazon      |
 
 ## Emeritus
@@ -18,3 +17,4 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Maintainer         | GitHub ID                                                 | Affiliation |
 | ------------------ | --------------------------------------------------------- | ----------- |
 | Manasvini B Suryanarayana  | [manasvinibs](https://github.com/manasvinibs)    | Amazon      |
+| Sean Neumann               | [seanneumann](https://github.com/seanneumann)    | Amazon      |
